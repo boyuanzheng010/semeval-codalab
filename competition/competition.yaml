@@ -1,5 +1,5 @@
-title: Sample Competition for SemEval-2017
-description: This is a sample competition that requires a submission of "Hello World!".
+title: SemEval-2021 Task4 :\ Reading Comprehension of Abstract Meaning
+description: This is the description of task 4. It should includes these components:\
 image: semeval-logo.png
 has_registration: True
 allow_teams: True
